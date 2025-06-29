@@ -1,4 +1,4 @@
-# TCGA-ACC Multi-Omics Data Processing Pipeline
+# TCGA Multi-Omics Data Processing Pipeline
 
 This repository contains organized TCGA multi-omics data and processing scripts for immune-focused analysis.
 
@@ -36,7 +36,7 @@ This repository contains organized TCGA multi-omics data and processing scripts 
 ### 1. RNA-seq Data (Gene Expression)
 - **File**: `tcga_acc_rnaseq_rsem_log2.cct`
 - **Description**: Log2-transformed RSEM gene expression values
-- **Samples**: 79 TCGA-ACC samples
+- **Samples**: 79 TCGA samples
 - **Features**: ~19,000 genes
 
 ### 2. miRNA-seq Data (MicroRNA Expression)
